@@ -67,8 +67,5 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205085_ico.png?ts=1606375389",  PSI สาระดี
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="asianfood" group-title="ความบันเทิง" tvg-logo="https://i.ibb.co/RYN8g29/afc.png",Asian Food Network
-https://doofootball.livestream-cdn.com/iptv/sd-asianfood.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="68" tvg-id="foodnetwork" group-title="ความบันเทิง" tvg-logo="https://i.ibb.co/C1x07p9/foodnetwork.png",Food Network
 https://doofootball.livestream-cdn.com/iptv/uk-foodnetwork.stream/playlist.m3u8
