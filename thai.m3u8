@@ -23,7 +23,7 @@ http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
 https://cdn6.goprimetime.info/feed//chamarin/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/CvBgBMz/workpoint.png", WORKPOINT
-http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+https://cdn6.goprimetime.info/feed//chworkpoint/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/1s9yx1p/gmm.png", GMM 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
@@ -41,10 +41,10 @@ http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/6Z3cnqP/thairath.png", THAIRATH
-https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
+https://cdn6.goprimetime.info/feed//chthairath/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/sbcBFzD/tnn.png", TNN
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+https://cdn6.goprimetime.info/feed//chtnn/playlist.m3u8
 
 #EXTINF:-1 ggroup-title="Channels" tvg-logo="https://i.ibb.co/r0Yn5GV/pbs.png", THAI PBS
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
@@ -56,7 +56,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/tbDWpYY/tru4u2.png", TRUE 4U
-http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+https://cdn6.goprimetime.info/feed//chtrue4u/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/fCRhR06/truefilm.png", TRUE FILM
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
