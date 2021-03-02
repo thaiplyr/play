@@ -43,7 +43,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", THAIRATH
 https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN 16
+#EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/sbcBFzD/tnn.png", TNN
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 ggroup-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", THAI PBS
@@ -52,7 +52,7 @@ http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/KjjpXhb/mono.png", MONO 29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True4U
+#EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/wSK9229/tru4u.png", True4U
 http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TrbGqa5R2KIMhpTiCy8Ilv2aYTlRmlnZ0g&usqp=CAU", FOX THAI
@@ -64,7 +64,7 @@ http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QbL_KgltVL2XDbko33yhNPVvzwjQdAvZvg&usqp=CAU", TVB THAI
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Channels" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205085_ico.png?ts=1606375389",  PSI
+#EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/r5Dv5S1/PSI.png", PSI
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="foodnetwork" group-title="Channels" tvg-logo="https://i.ibb.co/C1x07p9/foodnetwork.png",FOOD NETWORK
