@@ -5,53 +5,55 @@
 # Last Update: 02-01-2021
 # =======================================================
 
-#EXTINF:-1 tvg-chno="120" tvg-id="topnews" group-title="Channels" tvg-logo="https://i.ibb.co/8DvNp5M/cropped-topnews-site-logo-2.png",TOPNEWS
-https://live.topnews.co.th/hls/topnews.m3u8
 
-#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU", CH 5
-http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
-http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
-
-#EXTINF:-1 ggroup-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
-http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
-http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
-http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
-http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
-http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
-http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
-http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
-https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 
-#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
-https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u88
+#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU", CH 5
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
+http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​ 7
 http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
+https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u88
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="120" tvg-id="topnews" group-title="Channels" tvg-logo="https://i.ibb.co/8DvNp5M/cropped-topnews-site-logo-2.png",TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
+https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 ggroup-title="channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+
+#EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
+http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TrbGqa5R2KIMhpTiCy8Ilv2aYTlRmlnZ0g&usqp=CAU", FOX​ THAI
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
