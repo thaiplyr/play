@@ -20,7 +20,7 @@ http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN
-https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u88
+https://cdn6.goprimetime.info/feed//chamarin/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT
 http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
