@@ -46,7 +46,7 @@ https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/sbcBFzD/tnn.png", TNN
 https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 
-#EXTINF:-1 ggroup-title="Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", THAI PBS
+#EXTINF:-1 ggroup-title="Channels" tvg-logo="https://i.ibb.co/r0Yn5GV/pbs.png", THAI PBS
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Channels" tvg-logo="https://i.ibb.co/KjjpXhb/mono.png", MONO 29
