@@ -1,0 +1,20 @@
+/*Import Font*/
+@mixin font-face($font-family, $url, $weight, $style) {
+  @font-face {
+    font-family: '#{$font-family}';
+    src: local('#{$font-family}'), url('#{$url}.ttf') format('truetype'),
+    url('#{$url}.woff2') format('woff2'),
+    url('#{$url}.woff') format('woff');
+    font-weight: $weight;
+    font-style: $style;
+    font-display: swap;
+  }
+}
+
+
+@include font-face("Marine","../fonts/marine",normal, normal );
+@include font-face("Marine-Bold","../fonts/marine-bold",normal, normal );
+@include font-face("Marine-Black","../fonts/marine-black",normal, normal );
+@include font-face("Marine-Light","../fonts/marine-light",normal, normal );
+@include font-face("Marine-Oblicua","../fonts/marine-oblicua",normal, normal );
+@include font-face("Marine-Oblicua-Bold","../fonts/marine-oblicua-bold",normal, normal );
